@@ -18,7 +18,7 @@ A convolutional neural network (CNN) was developed to learn visual patterns from
 
 ## Tools & Technologies
 - Python
-- TensorFlow / Keras *(update if you used PyTorch)*
+- PyTorch
 - NumPy
 - Matplotlib
 - Jupyter Notebook
