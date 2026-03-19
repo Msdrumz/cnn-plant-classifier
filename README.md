@@ -52,9 +52,6 @@ A convolutional neural network (CNN) was developed to learn visual patterns from
 ### Training Results
 ![Training Results](images/training-results.png)
 
-### Sample Predictions *(optional)*
-![Predictions](images/sample-predictions.png)
-
 ---
 
 ## Project Structure
